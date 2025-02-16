@@ -39,6 +39,6 @@ Contributions are what make the open-source community such an amazing place to l
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-Your Name - [@kaxm231](https://x.com/kaxm231)
+ Name - [@kaxm231](https://x.com/kaxm231)
 
 Project Link: [https://github.com/kaxm23/AICryptoSense](https://github.com/kaxm23/AICryptoSense)
