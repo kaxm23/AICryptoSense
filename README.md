@@ -6,6 +6,7 @@ We use AI to analyze the news.
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
+- [Video](#video)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -21,6 +22,10 @@ To start analyzing news with AI, run the following command:
 ```bash
 python main.py
 ```
+
+## Video
+Watch the project video to see AICryptoSense in action:
+[![AICryptoSense Video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
 
 ## Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
