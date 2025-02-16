@@ -50,11 +50,10 @@ CryptoSense AI is a sophisticated cryptocurrency analytics dashboard that combin
 - Supabase account
 
 ### Installation
-
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/cryptosense-ai.git
-   cd cryptosense-ai
+   git clone https://github.com/kaxm23/AICryptoSense.git
+   cd AICryptoSense
    ```
 
 2. Install dependencies:
