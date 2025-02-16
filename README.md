@@ -36,6 +36,6 @@ Contributions are what make the open-source community such an amazing place to l
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - email@example.com
+Your Name - [@your_twitter]((https://x.com/kaxm231)) -
 
 Project Link: [https://github.com/kaxm23/AICryptoSense](https://github.com/kaxm23/AICryptoSense)
