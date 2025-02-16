@@ -25,8 +25,7 @@ python main.py
 
 ## Video
 Watch the project video to see AICryptoSense in action:
-[![AICryptoSense Video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
-
+video.mp4
 ## Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
